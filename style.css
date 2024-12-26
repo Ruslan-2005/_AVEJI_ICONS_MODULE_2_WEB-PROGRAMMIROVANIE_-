@@ -1,0 +1,35 @@
+.icons,
+.icons * {
+  box-sizing: border-box;
+}
+.icons {
+  background: #ffffff;
+  height: 660px;
+  position: relative;
+  overflow: hidden;
+}
+._1-web {
+  color: var(--black-100, #101828);
+  text-align: left;
+  font-family: var(--h1-web-font-family, "Roboto-Medium", sans-serif);
+  font-size: var(--h1-web-font-size, 50px);
+  line-height: var(--h1-web-line-height, 60px);
+  font-weight: var(--h1-web-font-weight, 500);
+  position: absolute;
+  right: 41.25%;
+  left: 6.53%;
+  width: 52.23%;
+  bottom: 88.03%;
+  top: 2.88%;
+  height: 9.09%;
+}
+.icon {
+  width: 17.8%;
+  height: 8.33%;
+  position: absolute;
+  right: 75.67%;
+  left: 6.53%;
+  bottom: 74.85%;
+  top: 16.82%;
+  overflow: visible;
+}
